@@ -43,7 +43,7 @@ In this project, I handled various data quality issues using **Python** and **Pa
 ---
 
 ## 🛠️ Tech Stack
-* **Data Source:** < a href= "https://www.espncricinfo.com/records/highest-career-batting-average-282910">ESPN Cricinfo</a>.
+* **Data Source:** <a href= "https://www.espncricinfo.com/records/highest-career-batting-average-282910">ESPN Cricinfo</a>.
 * **Language:** Python.
 * **Library:** Pandas.
 * **Environment:**  Google Colab.
