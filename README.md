@@ -1,4 +1,4 @@
-# 🏏 Cricket Test Match - Data Cleaning Project
+# 🏏 Cricket Test Match Data Cleaning 
 
 ## 📌 Project Overview
 This project focuses on performing extensive **Data Cleaning** and **Feature Engineering** on a dataset containing historical records of cricket players' performances. The raw data, sourced from ESPN Cricinfo, contained several inconsistencies, special characters, and incorrect data types that required systematic cleaning before any analysis could be conducted.
@@ -9,7 +9,7 @@ This project focuses on performing extensive **Data Cleaning** and **Feature Eng
 
 ### Raw Data (Before Cleaning)
 
-<img width="100%" height="100%" alt="Raw Data" src="https://github.com/user-attachments/assets/24eac46d-93fd-471f-9a94-c246d2184499" />
+<img width="80%" height="80%" alt="Raw Data" src="https://github.com/user-attachments/assets/24eac46d-93fd-471f-9a94-c246d2184499" />
 
 ---
 
@@ -43,9 +43,9 @@ In this project, I handled various data quality issues using **Python** and **Pa
 ---
 
 ## 🛠️ Tech Stack
-** Data Source:** ESPN Cricinfo
-* **Language:** < a herf= "https://www.espncricinfo.com/records/highest-career-batting-average-282910" > Python <a\>.
-* **Library:** Pandas
-* **Environment:**  Google Colab
+* **Data Source:** < a href= "https://www.espncricinfo.com/records/highest-career-batting-average-282910"> ESPN Cricinfo </a>.
+* **Language:** Python.
+* **Library:** Pandas.
+* **Environment:**  Google Colab.
 
 
