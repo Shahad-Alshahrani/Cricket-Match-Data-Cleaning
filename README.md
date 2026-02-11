@@ -26,12 +26,15 @@ This project focuses on performing extensive **Data Cleaning** and **Feature Eng
 In this project, I handled various data quality issues using **Python** and **Pandas**:
 
 1.  **Column Renaming:** Renamed abbreviated column headers (e.g., `HS`, `BF`, `SR`) into descriptive names for better readability.
-2.  **Handling Special Characters:** * Removed `*` from the `Highest_Inns_Score` to indicate "not out" cases and converted them to integers.
-    * Cleaned the `+` sign from columns like `Balls_Faced` and `Boundary_Fours` to enable mathematical calculations.
-3.  **Splitting & Extracting Data:** * Split the `Playing_Span` column (e.g., "1990-2010") into separate `Start_Year` and `End_Year` columns.
-4.  **Data Type Conversion:** Converted object/string columns into proper numerical formats (`int`, `float`) for statistical analysis.
-5.  **Handling Missing Values:** Identified and imputed null values in key metrics like `Balls_Faced` and `Batting_Strike_Rate` with appropriate defaults.
-6.  **Feature Engineering:** Calculated the **Career_Length** for each player based on their active years.
+2.  **Handling Special Characters:**
+   * Removed `*` from the `Highest_Inns_Score` to indicate "not out" cases and converted them to integers.
+   * Cleaned the `+` sign from columns like `Balls_Faced` and `Boundary_Fours` to enable mathematical calculations.
+4.  **Splitting & Extracting Data:**
+   * Split the `Playing_Span` column (e.g., "1990-2010") into separate `Start_Year` and `End_Year` columns.
+   * Extract the `Country` column from the `Player` column each in separate columns.
+5.  **Data Type Conversion:** Converted object/string columns into proper numerical formats (`int`, `float`) for statistical analysis.
+6.  **Handling Missing Values:** Identified and imputed null values in key metrics like `Balls_Faced` and `Batting_Strike_Rate` with appropriate defaults.
+7.  **Feature Engineering:** Calculated the **Career_Length** for each player based on their active years.
 
 ---
 
