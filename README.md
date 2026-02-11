@@ -15,9 +15,9 @@ This project focuses on performing extensive **Data Cleaning** and **Feature Eng
 
 ### Cleaned Data (After Processing)
 
-<img width="100%" height="100%" alt="Clean Data 1" src="https://github.com/user-attachments/assets/5d41d59a-1e03-4335-bc71-5010b9cc918b" />
+<img width="80%" height="80%" alt="Clean Data 1" src="https://github.com/user-attachments/assets/5d41d59a-1e03-4335-bc71-5010b9cc918b" />
 
-<img width="100%" height="100%" alt="Clean Data 2" src="https://github.com/user-attachments/assets/0fce204a-a587-41b6-b9a9-7c73461c97f1" />
+<img width="80%" height="80%" alt="Clean Data 2" src="https://github.com/user-attachments/assets/0fce204a-a587-41b6-b9a9-7c73461c97f1" />
 
 ---
 
@@ -43,7 +43,7 @@ In this project, I handled various data quality issues using **Python** and **Pa
 ---
 
 ## 🛠️ Tech Stack
-* **Data Source:** < a href= "https://www.espncricinfo.com/records/highest-career-batting-average-282910"> ESPN Cricinfo </a>.
+* **Data Source:** < a href= "https://www.espncricinfo.com/records/highest-career-batting-average-282910"> ESPN Cricinfo. </a>
 * **Language:** Python.
 * **Library:** Pandas.
 * **Environment:**  Google Colab.
